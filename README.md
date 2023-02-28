@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá, Meu nome é Miquéias Santos 👋
+
+- Sou um desenvolvedor que gosta sempre estar por dentro das novidades
+
 
 <!--
 **MiqueiasDevGames/MiqueiasDevGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
